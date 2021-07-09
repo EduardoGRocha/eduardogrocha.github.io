@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Low Level Stuff',    url: 'low-level'}
-- {name: 'CS References',      url: 'references'}
+- {name: 'CS References',      url: 'cs-references'}
 # - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
